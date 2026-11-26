@@ -21,6 +21,7 @@ sudo pacman -Syu --needed --noconfirm \
     grim \
     slurp \
     opendoas \
+    waybar \
     wl-clipboard
 
 echo "==> Aplicando configuração do doas..."
